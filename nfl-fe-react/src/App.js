@@ -112,7 +112,7 @@ const AutocompleteA = () => {
 function App() {
     return (
         <div className="App">
-            <h1> The Perfect Trade: Football Fantasy Trade Anaylzer</h1>
+            <h1> The Perfect Trade: Football Fantasy Trade Analyzer</h1>
             <div className="Nav-Area">
             </div>
 
