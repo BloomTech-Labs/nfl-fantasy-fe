@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from "styled-components";
 
+// this is a message 
+
 function Footer () {
   return (
     <div className="footer">

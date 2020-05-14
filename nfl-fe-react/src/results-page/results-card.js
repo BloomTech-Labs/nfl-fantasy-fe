@@ -2,6 +2,8 @@ import React from "react";
 import {Card} from 'semantic-ui-react';
 import 'semantic-ui-css/semantic.min.css';
 
+// this is a message 
+
 export default function ResultsCard({playersname, position, rankPrediction, week_1, isWinner}) {
     return (
         <div class="ui cc_cursor centered card">
